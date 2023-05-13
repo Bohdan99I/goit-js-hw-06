@@ -16,4 +16,5 @@ ingredients.forEach((ingredient) => {
   item.classList.add('item')
   items.push(item);
 });
+
 list.append(...items);
