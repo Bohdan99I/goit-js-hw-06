@@ -1,6 +1,5 @@
 const colorSpan = document.querySelector('.color');
 const changeColor = document.querySelector('.change-color');
-
 changeColor.addEventListener("click", onClick);
 
 function onClick() {
